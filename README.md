@@ -4,7 +4,6 @@
 <p>:mailbox: Reach me on <a href="www.linkedin.com/in/lee-hui-hui-979b90265">LinkedIn</a> or <a href="mailto:huihui5976@gmail.com">Email</a>.</p>
 
 <br>
-<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leehuihuii&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
