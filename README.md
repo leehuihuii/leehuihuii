@@ -1,7 +1,8 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 <p>:seedling: I am Lee Hui Hui, a second year SE major at University of Malaya. </p>
 <p>:mailbox: Reach me on <a href="www.linkedin.com/in/lee-hui-hui-979b90265">LinkedIn</a> or <a href="mailto:huihui5976@gmail.com">Email</a>.</p>
+-->
 
 <!--<br>
 
