@@ -52,15 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=leehuihuii&show_icons=true&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&border_color=000000" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehuihuii&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000" alt="Top Languages" height="180"/>
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p>
